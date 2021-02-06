@@ -16,19 +16,15 @@ header {
     color: #ffffff;
 }
 
-/* Switched header away from being a class */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Switched header away from being a class */
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Switched header away from being a class */
-/* Updated div to nav for the header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,14 +33,10 @@ header nav {
     font-size: 20px;
 }
 
-/* Switched header away from being a class */
-/* Updated div to nav for the header */
 header nav ul {
     list-style-type: none;
 }
 
-/* Switched header away from being a class */
-/* Updated div to nav for the header */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -86,12 +78,10 @@ p {
     color: #ffffff;
 }
 
-/* Merged search-engine-optimization, online-reputation-management, and social-media-marketing into one class */
 .main-content img {
     max-height: 200px;
 }
 
-/* Merged search-engine-optimization, online-reputation-management, and social-media-marketing into one class */
 .main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -103,7 +93,6 @@ p {
     margin-right: 25px;
 }
 
-/* Positioned float semantically near where it's located in the HTML */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -127,13 +116,11 @@ p {
     color: #ffffff;
 }
 
-/* Consolidated benefit-lead, benefit-brand, and benefit-cost into one class */
 .benefit-sidebar h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Consolidated benefit-lead, benefit-brand, and benefit-cost into one class */
 .benefit-sidebar img {
     display: block;
     margin: 10px auto;
