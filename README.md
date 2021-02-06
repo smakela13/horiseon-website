@@ -42,11 +42,11 @@ Created by (github.com/smakela13).
 ![GitHub](https://img.shields.io/github/license/smakela13/horiseon-website?style=for-the-badge)
 
 ## Instructions
-# 01 HTML CSS Git: Code Refactor
+### 01 HTML CSS Git: Code Refactor
 
-## Your Task
+### Your Task
 
-**Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
+**Note**: Be sure to review the Homework Guide and the Good README Guide before you start working on this assignment!
 
 This week is an odd-numbered week, so your homework is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's homework involves a very important aspect of web development: **accessibility**. 
 
