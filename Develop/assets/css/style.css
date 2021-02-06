@@ -25,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Changed div to a nav for semantic HTML and CSS */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
