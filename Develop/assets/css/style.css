@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+/* Switched header away from being a class */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* Switched header away from being a class */
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* Switched header away from being a class */
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* Switched header away from being a class */
+/* Updated div to nav for the header */
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Switched header away from being a class */
+/* Updated div to nav for the header */
+header nav ul {
+    list-style-type: none;
+}
+
+/* Switched header away from being a class */
+/* Updated div to nav for the header */
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Positioned content semantically where it's located in the HTML */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Organized all articles together and semantically placed it where it's located in the HTML */
+/* Merged search-engine-optimization, online-reputation-management, and social-media-marketing into one class */
+.main-content article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Merged search-engine-optimization, online-reputation-management, and social-media-marketing into one class */
+.main-content img {
+    max-height: 200px;
+}
+
+/* Merged search-engine-optimization, online-reputation-management, and social-media-marketing into one class */
+.main-content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Positioned float semantically near where it's located in the HTML */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Positioned float semantically near where it's located in the HTML */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Properly positioned Benefits within the semantic flow of where it is on the HTML page */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* Consolidated benefit-lead, benefit-brand, and benefit-cost into one class */
+.benefit-sidebar article {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Consolidated benefit-lead, benefit-brand, and benefit-cost into one class */
+.benefit-sidebar h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Consolidated benefit-lead, benefit-brand, and benefit-cost into one class */
+.benefit-sidebar img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Changed footer and footer h2 to not be classes */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+/* Tidied up the sequential order and line spacing in the code */
