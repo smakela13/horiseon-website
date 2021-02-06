@@ -28,10 +28,8 @@ The HTML and CSS were reviewed and refactored to make the HTML and CSS semantic,
 5. Navigate to `<your-github-username>.github.io/<your-repo-name>` and you will find that your new web page has gone live! (For example, if your GitHub username is `lernantino` and the project is `css-demo-site`, your URL would be `lernantino.github.io/css-demo-site`)
 
 ## Usage
+![Horiseon website screenshot](./Assets/01-html-css-git-homework-demo.png)
 
-```md
-![Horiseon website screenshot](https://raw.github.com/smakela13/horiseon-website/blob/main/Assets/01-html-css-git-homework-demo.png)
-```
 
 
 ## Original Instructions
