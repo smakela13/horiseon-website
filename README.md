@@ -31,11 +31,11 @@ The HTML and CSS were reviewed and refactored to make the HTML and CSS semantic,
 
 ![Horiseon website screenshot](./Assets/01-html-css-git-homework-demo.png)
 
-Navigate to (smakela13.github.io/horiseon-website) and view the web page.
+Navigate to [Horiseon Social Solution Services](https://smakela13.github.io/horiseon-website/Develop/index.html) and view the web page.
 
 ## Credits
 
-Created by (github.com/smakela13).
+Created by [Sarah Makela](github.com/smakela13).
 
 ## License
 
