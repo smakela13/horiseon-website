@@ -30,7 +30,7 @@ The HTML and CSS were reviewed and refactored to make the HTML and CSS semantic,
 ## Usage
 
 ```md
-![Horiseon screenshot](assets/01-html-css-git-homework-demo.png)
+![Horiseon screenshot](./assets/01-html-css-git-homework-demo.png)
 ```
 
 
