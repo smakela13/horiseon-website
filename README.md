@@ -41,6 +41,8 @@ Created by [Sarah Makela](github.com/smakela13).
 
 ![GitHub](https://img.shields.io/github/license/smakela13/horiseon-website?style=for-the-badge)
 
+---
+
 ## Instructions
 ### 01 HTML CSS Git: Code Refactor
 
