@@ -34,7 +34,7 @@ Navigate to [Horiseon Social Solution Services](https://smakela13.github.io/hori
 
 ## Credits
 
-Created by [Sarah Makela](github.com/smakela13).
+Created by [Soma Makela](github.com/smakela13).
 
 ## License
 
